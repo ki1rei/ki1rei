@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Tyara and I'm a Computer Science Student, from Indonesia</h2>
+<!--Banner-->
+![ki1rei Banner Image](./banner.png)
 
 ###
 
