@@ -18,12 +18,20 @@
 
 ###
 ###
+>
 
-<h2 align="left"><img src="asset/buffkirby.png" width="35" alt="kirby buff" /> My Github Stat's</h2>
-
+<h2 align="left"><img src="asset/kirby_fly.gif" width="35" alt="kirby buff" /> My Github Stat's</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ki1rei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki1rei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ki1rei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ki1rei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api?username=ki1rei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ki1rei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ki1rei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki1rei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </picture>
 </div>
 
 ###
