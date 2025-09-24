@@ -3,14 +3,14 @@
 
 ###
 
-# <img src="asset/kirby_vibing.gif" width="30" alt="kirby" /> Firstyara Putri
+# <img src="asset/kirby_vibing.gif" width="30" alt="kirby" />  About Me
 
 ###
 ###
 
-<h2 align="left"><b>I'm Tyara from Malang, Indonesia</b></h2>
+<h4 align="left"><b>Welcome to my GitHub profile! Here I keep track of my coding journey — from small steps to bigger projects. I’m constantly improving, so stay tuned !</b></h4>
 
-<p align="left">
+<p align="left" style="font-size: 18px;">
 - 🔭 I'm working as a Backend Web Developer and UI/UX Designer (Freelance)<br>
 - 📚 I'm currently learning Java<br>
 - ⚡ In my free time i always sleep :D
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left"><img src="asset/kirby_pan.gif" width="30" alt="kirby pan" /> 🛠 Language and tools</h3>
+<h2 align="left"><img src="asset/kirby_pan.gif" width="30" alt="kirby pan" /> 🛠 Language and tools</h2>
 
 ###
 
