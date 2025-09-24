@@ -70,11 +70,11 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki1rei/ki1rei/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ki1rei/ki1rei/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ki1rei/ki1rei/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- Pacman Contribution Graph -->
-<div align="center">
-  <img alt="ki1rei's contribution graph as pacman" src="https://abozanona.github.io/pacman-contribution-graph/embed/canvas.html?username=ki1rei&platform=github" />
-</div>
 
 ###
