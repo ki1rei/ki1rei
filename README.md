@@ -26,9 +26,6 @@ I’m constantly improving, so stay tuned!
 
 <h3 align="left"><img src="asset/kirby_pan.gif" width="40" alt="kirby pan" /> Language and Tools</h3>
 
-###
-
-## 🛠 Tech Stack
 
 | Category             | Technologies |
 |----------------------|--------------|
