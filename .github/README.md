@@ -19,7 +19,7 @@ I’m constantly improving, so stay tuned!
 ###
 
 <h2 align="left">
-  <img src="asset/kirby_fly.gif" width="30" alt="kirby fly" />
+  <img src="asset/kirby_jam.gif" width="35" alt="kirby jam" />
   My GitHub Stats
 </h2>
 
