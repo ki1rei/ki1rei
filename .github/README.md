@@ -12,7 +12,7 @@ I’m constantly improving, so stay tuned!
 
 <p align="left" style="font-size: 18px;">
 🚀 Just started my journey as a Information Engineering student <br>
-💻 Currently learning UI/UX Design, Java, and improving my coding skills <br>
+💻 Currently learning UI/UX Design, Java, PHP, HTML CSS and improving my coding skills <br>
 💫 Outside of studying, i enjoy music and relaxing :3
 </p>
 
